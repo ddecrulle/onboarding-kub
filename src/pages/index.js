@@ -9,9 +9,7 @@ import Resources from '@site/src/theme/Resources';
 
 function Home() {
   return (
-    <Layout
-      title={`The Home of Redis Developers`}
-      description="Learn all the best practices to get up and running with Redis in no time. Get started and discover the power of Redis, whether on your local machines or in the cloud.">
+    <Layout title={`Construire mes applications`} description="">
       <Hero />
       <main className="home-main">
         <Languages />

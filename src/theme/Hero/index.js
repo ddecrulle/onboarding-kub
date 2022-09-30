@@ -22,8 +22,8 @@ function Hero() {
             <div className="row">
               <div className="col col--8">
                 <h1 className="hero-title">
-                  The Home of
-                  <br /> Redis Developers
+                  Construire
+                  <br /> mes applications
                 </h1>
 
                 <h2 className="hero-subtitle">
